@@ -136,12 +136,12 @@ const PoemeTyper = () => {
       </div>
 
       {/* Navigation en bas de page */}
-      <nav className="fixed bottom-0 left-0 right-0 bg-black border-t border-green-500 font-mono">
+      <nav className="fixed bottom-0 left-0 right-0 bg-white border-t border-amber-200 shadow-lg font-serif">
         <ul className="flex justify-center space-x-8 p-4 text-sm">
           <li>
             <button 
               onClick={() => openModal('Settings', 'Paramètres du PoèmeTyper')}
-              className="text-green-500 hover:text-green-400"
+              className="text-rose-600 hover:text-rose-500 transition-colors"
             >
               Settings
             </button>
@@ -149,7 +149,7 @@ const PoemeTyper = () => {
           <li>
             <button 
               onClick={() => openModal('Help', 'Aide et instructions d\'utilisation')}
-              className="text-green-500 hover:text-green-400"
+              className="text-rose-600 hover:text-rose-500 transition-colors"
             >
               Help
             </button>
@@ -157,7 +157,7 @@ const PoemeTyper = () => {
           <li>
             <button 
               onClick={() => openModal('About', 'À propos de PoèmeTyper\n\nCréé pour partager la poésie d\'une manière interactive et amusante.')}
-              className="text-green-500 hover:text-green-400"
+              className="text-rose-600 hover:text-rose-500 transition-colors"
             >
               About
             </button>
@@ -165,7 +165,7 @@ const PoemeTyper = () => {
           <li>
             <button 
               onClick={() => openModal('Blog', 'Blog et actualités')}
-              className="text-green-500 hover:text-green-400"
+              className="text-rose-600 hover:text-rose-500 transition-colors"
             >
               Blog
             </button>
