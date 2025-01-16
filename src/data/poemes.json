@@ -1,0 +1,24 @@
+{
+  "poemes": [
+    {
+      "id": "1",
+      "titre": "Les jardins de la mémoire",
+      "texte": "Dans les jardins de ma mémoire\nFleurissent les roses du temps,\nOù chaque pétale est une histoire\nQue le vent murmure en passant.\n\nLes saisons dansent leur ballet,\nEntre l'aurore et le couchant,\nTandis que mon cœur épelait\nLes secrets d'un amour touchant."
+    },
+    {
+      "id": "2",
+      "titre": "L'océan des rêves",
+      "texte": "Sur les vagues de mes pensées,\nVoguent les navires du soir,\nLeurs voiles de brume tissées\nPortent l'essence de l'espoir.\n\nLa mer murmure ses secrets\nAux étoiles qui la contemplent,\nEt dans ses profondeurs discrètes\nDort la sagesse des exemples."
+    },
+    {
+      "id": "3",
+      "titre": "Le temps qui passe",
+      "texte": "Les heures s'écoulent comme l'eau\nD'une fontaine cristalline,\nEmportant dans leur doux ruisseau\nNos souvenirs qui s'illuminent.\n\nLe temps dessine sur nos cœurs\nDes arabesques éphémères,\nMêlant la joie et la douleur\nDans une danse séculaire."
+    },
+    {
+      "id": "4",
+      "titre": "Les saisons de l'âme",
+      "texte": "Printemps de l'âme qui s'éveille\nAux premiers rayons du matin,\nÉté des passions qui ensoleillent\nLes chemins de notre destin.\n\nAutomne aux couleurs flamboyantes\nDes souvenirs et des regrets,\nHiver aux neiges éblouissantes\nQui couvrent nos anciens secrets."
+    }
+  ]
+}
